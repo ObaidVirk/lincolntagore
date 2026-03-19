@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Ana Sayfa",
+                   "about":  "Hakkimizda",
+                   "services":  "Hizmetler",
+                   "pricing":  "Fiyatlar",
+                   "contact":  "Iletisim",
+                   "login":  "Giris",
+                   "signup":  "Kaydol",
+                   "dashboard":  "Panel"
+               },
+    "hero":  {
+                 "headline":  "Guvenli olceklenme icin kurumsal yazilim ve fintech deneyimleri.",
+                 "subheadline":  "Guvenli ve uyarlanabilir dijital platformlar tasarlariz.",
+                 "cta":  "Hizmetleri Kesfet"
+             },
+    "login":  {
+                  "email":  "E-posta",
+                  "password":  "Sifre",
+                  "login":  "Giris",
+                  "forgotPassword":  "Sifremi Unuttum"
+              },
+    "signup":  {
+                   "name":  "Ad",
+                   "email":  "E-posta",
+                   "password":  "Sifre",
+                   "confirmPassword":  "Sifreyi Onayla",
+                   "signup":  "Kaydol"
+               }
+}

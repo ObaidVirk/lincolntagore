@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Accueil",
+                   "about":  "A propos",
+                   "services":  "Services",
+                   "pricing":  "Tarifs",
+                   "contact":  "Contact",
+                   "login":  "Connexion",
+                   "signup":  "Inscription",
+                   "dashboard":  "Tableau de bord"
+               },
+    "hero":  {
+                 "headline":  "Logiciels d\u0027entreprise et experiences fintech pour une croissance confiante.",
+                 "subheadline":  "Nous creons des plateformes numeriques securisees et evolutives.",
+                 "cta":  "Voir les Services"
+             },
+    "login":  {
+                  "email":  "E-mail",
+                  "password":  "Mot de passe",
+                  "login":  "Connexion",
+                  "forgotPassword":  "Mot de passe oublie"
+              },
+    "signup":  {
+                   "name":  "Nom",
+                   "email":  "E-mail",
+                   "password":  "Mot de passe",
+                   "confirmPassword":  "Confirmer le mot de passe",
+                   "signup":  "Inscription"
+               }
+}

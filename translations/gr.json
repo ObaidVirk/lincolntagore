@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Archi",
+                   "about":  "Schetika",
+                   "services":  "Ypiresies",
+                   "pricing":  "Timologisi",
+                   "contact":  "Epikoinonia",
+                   "login":  "Syndesi",
+                   "signup":  "Eggrafi",
+                   "dashboard":  "Pinakas"
+               },
+    "hero":  {
+                 "headline":  "Enterprise software kai fintech empeiries gia sigouri anaptyxi.",
+                 "subheadline":  "Dimiourgoume asfaleis kai epektasimes psifiakes platformes.",
+                 "cta":  "Deite Ypiresies"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Kodikos",
+                  "login":  "Syndesi",
+                  "forgotPassword":  "Xechasate ton kodiko"
+              },
+    "signup":  {
+                   "name":  "Onoma",
+                   "email":  "Email",
+                   "password":  "Kodikos",
+                   "confirmPassword":  "Epivevaiosi kodikou",
+                   "signup":  "Eggrafi"
+               }
+}

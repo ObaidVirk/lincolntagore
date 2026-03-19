@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Home",
+                   "about":  "About",
+                   "services":  "Services",
+                   "pricing":  "Pricing",
+                   "contact":  "Contact",
+                   "login":  "Login",
+                   "signup":  "Signup",
+                   "dashboard":  "Dashboard"
+               },
+    "hero":  {
+                 "headline":  "Sinroe ro seongjanghaneun enterprise software wa fintech gyeongheom.",
+                 "subheadline":  "Anjeonhago hwajang ganeunghan digital platform eul mandeumnida.",
+                 "cta":  "Services Bogi"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Password",
+                  "login":  "Login",
+                  "forgotPassword":  "Password chagi"
+              },
+    "signup":  {
+                   "name":  "Name",
+                   "email":  "Email",
+                   "password":  "Password",
+                   "confirmPassword":  "Password hwagin",
+                   "signup":  "Signup"
+               }
+}

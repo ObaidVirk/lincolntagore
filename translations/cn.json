@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Shouye",
+                   "about":  "Guanyu",
+                   "services":  "Fuwu",
+                   "pricing":  "Jiage",
+                   "contact":  "Lianxi",
+                   "login":  "Denglu",
+                   "signup":  "Zhuce",
+                   "dashboard":  "Kanban"
+               },
+    "hero":  {
+                 "headline":  "Mianxiang zixin kuozhan de qiye ruanjian he fintech tiyan.",
+                 "subheadline":  "Women goujian anquan, kexuanze, keyunying de shuzi pingtai.",
+                 "cta":  "Chakan Fuwu"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Mima",
+                  "login":  "Denglu",
+                  "forgotPassword":  "Wangji Mima"
+              },
+    "signup":  {
+                   "name":  "Xingming",
+                   "email":  "Email",
+                   "password":  "Mima",
+                   "confirmPassword":  "Queren Mima",
+                   "signup":  "Zhuce"
+               }
+}

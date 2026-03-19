@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Trang chu",
+                   "about":  "Gioi thieu",
+                   "services":  "Dich vu",
+                   "pricing":  "Bang gia",
+                   "contact":  "Lien he",
+                   "login":  "Dang nhap",
+                   "signup":  "Dang ky",
+                   "dashboard":  "Bang dieu khien"
+               },
+    "hero":  {
+                 "headline":  "Phan mem doanh nghiep va trai nghiem fintech cho tang truong tu tin.",
+                 "subheadline":  "Chung toi xay dung nen tang so an toan va de mo rong.",
+                 "cta":  "Kham pha Dich vu"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Mat khau",
+                  "login":  "Dang nhap",
+                  "forgotPassword":  "Quen mat khau"
+              },
+    "signup":  {
+                   "name":  "Ten",
+                   "email":  "Email",
+                   "password":  "Mat khau",
+                   "confirmPassword":  "Xac nhan mat khau",
+                   "signup":  "Dang ky"
+               }
+}

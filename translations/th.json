@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Home",
+                   "about":  "About",
+                   "services":  "Services",
+                   "pricing":  "Pricing",
+                   "contact":  "Contact",
+                   "login":  "Login",
+                   "signup":  "Signup",
+                   "dashboard":  "Dashboard"
+               },
+    "hero":  {
+                 "headline":  "Software enterprise lae fintech samrap kan teubto yang manchai.",
+                 "subheadline":  "Rao sang digital platform thi plotphai lae khayaai dai.",
+                 "cta":  "Du Services"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Password",
+                  "login":  "Login",
+                  "forgotPassword":  "Forgot Password"
+              },
+    "signup":  {
+                   "name":  "Name",
+                   "email":  "Email",
+                   "password":  "Password",
+                   "confirmPassword":  "Confirm Password",
+                   "signup":  "Signup"
+               }
+}

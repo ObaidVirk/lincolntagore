@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Home",
+                   "about":  "Over ons",
+                   "services":  "Diensten",
+                   "pricing":  "Prijzen",
+                   "contact":  "Contact",
+                   "login":  "Inloggen",
+                   "signup":  "Registreren",
+                   "dashboard":  "Dashboard"
+               },
+    "hero":  {
+                 "headline":  "Enterprise software en fintech-ervaringen voor zekere groei.",
+                 "subheadline":  "Wij bouwen veilige en schaalbare digitale platforms.",
+                 "cta":  "Bekijk Diensten"
+             },
+    "login":  {
+                  "email":  "E-mail",
+                  "password":  "Wachtwoord",
+                  "login":  "Inloggen",
+                  "forgotPassword":  "Wachtwoord vergeten"
+              },
+    "signup":  {
+                   "name":  "Naam",
+                   "email":  "E-mail",
+                   "password":  "Wachtwoord",
+                   "confirmPassword":  "Bevestig wachtwoord",
+                   "signup":  "Registreren"
+               }
+}

@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Al-Raeesiya",
+                   "about":  "Hawlna",
+                   "services":  "Khidmat",
+                   "pricing":  "Asaar",
+                   "contact":  "Ittisal",
+                   "login":  "Dukhul",
+                   "signup":  "Tasjeel",
+                   "dashboard":  "Lawhat Al-Tahakkum"
+               },
+    "hero":  {
+                 "headline":  "Halool barmajiya wa fintech lilnumu bi thiqa.",
+                 "subheadline":  "Nusaid almunathamat ala binaa manasat raqmiya amina wa qabila littawsi.",
+                 "cta":  "Istikشاف Al-Khidmat"
+             },
+    "login":  {
+                  "email":  "Al-Bareed",
+                  "password":  "Kalimat Al-Murur",
+                  "login":  "Dukhul",
+                  "forgotPassword":  "Nasيت Kalimat Al-Murur"
+              },
+    "signup":  {
+                   "name":  "Al-Ism",
+                   "email":  "Al-Bareed",
+                   "password":  "Kalimat Al-Murur",
+                   "confirmPassword":  "Taakeed Kalimat Al-Murur",
+                   "signup":  "Tasjeel"
+               }
+}

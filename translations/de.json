@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Startseite",
+                   "about":  "Uber uns",
+                   "services":  "Services",
+                   "pricing":  "Preise",
+                   "contact":  "Kontakt",
+                   "login":  "Anmelden",
+                   "signup":  "Registrieren",
+                   "dashboard":  "Dashboard"
+               },
+    "hero":  {
+                 "headline":  "Enterprise-Software und Fintech-Erlebnisse fur sicheres Wachstum.",
+                 "subheadline":  "Wir entwickeln sichere und skalierbare digitale Plattformen.",
+                 "cta":  "Services ansehen"
+             },
+    "login":  {
+                  "email":  "E-Mail",
+                  "password":  "Passwort",
+                  "login":  "Anmelden",
+                  "forgotPassword":  "Passwort vergessen"
+              },
+    "signup":  {
+                   "name":  "Name",
+                   "email":  "E-Mail",
+                   "password":  "Passwort",
+                   "confirmPassword":  "Passwort bestatigen",
+                   "signup":  "Registrieren"
+               }
+}

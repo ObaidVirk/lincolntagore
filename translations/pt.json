@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Inicio",
+                   "about":  "Sobre",
+                   "services":  "Servicos",
+                   "pricing":  "Precos",
+                   "contact":  "Contato",
+                   "login":  "Entrar",
+                   "signup":  "Cadastrar",
+                   "dashboard":  "Painel"
+               },
+    "hero":  {
+                 "headline":  "Software empresarial e experiencias fintech para escalar com confianca.",
+                 "subheadline":  "Criamos plataformas digitais seguras e adaptaveis.",
+                 "cta":  "Explorar Servicos"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Senha",
+                  "login":  "Entrar",
+                  "forgotPassword":  "Esqueceu a senha"
+              },
+    "signup":  {
+                   "name":  "Nome",
+                   "email":  "Email",
+                   "password":  "Senha",
+                   "confirmPassword":  "Confirmar senha",
+                   "signup":  "Cadastrar"
+               }
+}

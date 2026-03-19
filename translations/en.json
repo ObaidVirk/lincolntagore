@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Home",
+                   "about":  "About",
+                   "services":  "Services",
+                   "pricing":  "Pricing",
+                   "contact":  "Contact",
+                   "login":  "Login",
+                   "signup":  "Signup",
+                   "dashboard":  "Dashboard"
+               },
+    "hero":  {
+                 "headline":  "Enterprise software and fintech experiences built for confident scale.",
+                 "subheadline":  "We partner with modern organizations to design, build, and optimize digital platforms that are secure, adaptable, and outcomes-driven.",
+                 "cta":  "Explore Services"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Password",
+                  "login":  "Login",
+                  "forgotPassword":  "Forgot Password"
+              },
+    "signup":  {
+                   "name":  "Name",
+                   "email":  "Email",
+                   "password":  "Password",
+                   "confirmPassword":  "Confirm Password",
+                   "signup":  "Signup"
+               }
+}

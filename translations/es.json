@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Inicio",
+                   "about":  "Acerca de",
+                   "services":  "Servicios",
+                   "pricing":  "Precios",
+                   "contact":  "Contacto",
+                   "login":  "Iniciar sesion",
+                   "signup":  "Registrarse",
+                   "dashboard":  "Panel"
+               },
+    "hero":  {
+                 "headline":  "Software empresarial y experiencias fintech para escalar con confianza.",
+                 "subheadline":  "Disenamos y optimizamos plataformas digitales seguras y adaptables.",
+                 "cta":  "Explorar Servicios"
+             },
+    "login":  {
+                  "email":  "Correo",
+                  "password":  "Contrasena",
+                  "login":  "Iniciar sesion",
+                  "forgotPassword":  "Olvido su contrasena"
+              },
+    "signup":  {
+                   "name":  "Nombre",
+                   "email":  "Correo",
+                   "password":  "Contrasena",
+                   "confirmPassword":  "Confirmar contrasena",
+                   "signup":  "Registrarse"
+               }
+}

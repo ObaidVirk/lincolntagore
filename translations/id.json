@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Beranda",
+                   "about":  "Tentang",
+                   "services":  "Layanan",
+                   "pricing":  "Harga",
+                   "contact":  "Kontak",
+                   "login":  "Masuk",
+                   "signup":  "Daftar",
+                   "dashboard":  "Dasbor"
+               },
+    "hero":  {
+                 "headline":  "Software enterprise dan pengalaman fintech untuk pertumbuhan percaya diri.",
+                 "subheadline":  "Kami membangun platform digital yang aman dan skalabel.",
+                 "cta":  "Jelajahi Layanan"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Kata Sandi",
+                  "login":  "Masuk",
+                  "forgotPassword":  "Lupa Kata Sandi"
+              },
+    "signup":  {
+                   "name":  "Nama",
+                   "email":  "Email",
+                   "password":  "Kata Sandi",
+                   "confirmPassword":  "Konfirmasi Kata Sandi",
+                   "signup":  "Daftar"
+               }
+}

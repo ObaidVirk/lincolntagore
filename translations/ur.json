@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Ghar",
+                   "about":  "Hamare Bare Mein",
+                   "services":  "Khidmat",
+                   "pricing":  "Qeemat",
+                   "contact":  "Rabita",
+                   "login":  "Login",
+                   "signup":  "Signup",
+                   "dashboard":  "Dashboard"
+               },
+    "hero":  {
+                 "headline":  "Tezi se barhne ke liye enterprise software aur fintech experiences.",
+                 "subheadline":  "Hum modern organizations ke sath mil kar secure aur scalable digital platforms banate hain.",
+                 "cta":  "Khidmat Dekhein"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Password",
+                  "login":  "Login",
+                  "forgotPassword":  "Password Bhool Gaye"
+              },
+    "signup":  {
+                   "name":  "Naam",
+                   "email":  "Email",
+                   "password":  "Password",
+                   "confirmPassword":  "Password Tasdeeq",
+                   "signup":  "Signup"
+               }
+}

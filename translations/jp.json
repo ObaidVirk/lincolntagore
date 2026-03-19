@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Home",
+                   "about":  "Gaiyo",
+                   "services":  "Service",
+                   "pricing":  "Kakaku",
+                   "contact":  "Contact",
+                   "login":  "Login",
+                   "signup":  "Signup",
+                   "dashboard":  "Dashboard"
+               },
+    "hero":  {
+                 "headline":  "Shinjite seicho suru tame no enterprise software to fintech taiken.",
+                 "subheadline":  "Anzen de scalable na digital platform o kochiku shimasu.",
+                 "cta":  "Service o Miru"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Password",
+                  "login":  "Login",
+                  "forgotPassword":  "Password wasure"
+              },
+    "signup":  {
+                   "name":  "Name",
+                   "email":  "Email",
+                   "password":  "Password",
+                   "confirmPassword":  "Password kakunin",
+                   "signup":  "Signup"
+               }
+}

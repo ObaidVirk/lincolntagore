@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Home",
+                   "about":  "About",
+                   "services":  "Services",
+                   "pricing":  "Pricing",
+                   "contact":  "Contact",
+                   "login":  "Login",
+                   "signup":  "Signup",
+                   "dashboard":  "Dashboard"
+               },
+    "hero":  {
+                 "headline":  "Vishwas ke saath scale ke liye enterprise software aur fintech anubhav.",
+                 "subheadline":  "Hum surakshit aur scalable digital platforms banate hain.",
+                 "cta":  "Services Dekhen"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Password",
+                  "login":  "Login",
+                  "forgotPassword":  "Password Bhool Gaye"
+              },
+    "signup":  {
+                   "name":  "Naam",
+                   "email":  "Email",
+                   "password":  "Password",
+                   "confirmPassword":  "Password Confirm",
+                   "signup":  "Signup"
+               }
+}

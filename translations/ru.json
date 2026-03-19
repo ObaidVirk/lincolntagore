@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Glavnaya",
+                   "about":  "O nas",
+                   "services":  "Uslugi",
+                   "pricing":  "Tseni",
+                   "contact":  "Kontakt",
+                   "login":  "Vhod",
+                   "signup":  "Registratsiya",
+                   "dashboard":  "Panel"
+               },
+    "hero":  {
+                 "headline":  "Korporativnoe PO i fintech opyt dlya uverennogo rosta.",
+                 "subheadline":  "My sozdaem bezopasnye i masshtabiruemye tsifrovye platformy.",
+                 "cta":  "Posmotret Uslugi"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Parol",
+                  "login":  "Vhod",
+                  "forgotPassword":  "Zabyli parol"
+              },
+    "signup":  {
+                   "name":  "Imya",
+                   "email":  "Email",
+                   "password":  "Parol",
+                   "confirmPassword":  "Podtverdit parol",
+                   "signup":  "Registratsiya"
+               }
+}

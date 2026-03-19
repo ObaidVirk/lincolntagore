@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Strona glowna",
+                   "about":  "O nas",
+                   "services":  "Uslugi",
+                   "pricing":  "Cennik",
+                   "contact":  "Kontakt",
+                   "login":  "Logowanie",
+                   "signup":  "Rejestracja",
+                   "dashboard":  "Panel"
+               },
+    "hero":  {
+                 "headline":  "Oprogramowanie enterprise i fintech dla pewnego skalowania.",
+                 "subheadline":  "Tworzymy bezpieczne i skalowalne platformy cyfrowe.",
+                 "cta":  "Poznaj Uslugi"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Haslo",
+                  "login":  "Logowanie",
+                  "forgotPassword":  "Zapomniales hasla"
+              },
+    "signup":  {
+                   "name":  "Imie",
+                   "email":  "Email",
+                   "password":  "Haslo",
+                   "confirmPassword":  "Potwierdz haslo",
+                   "signup":  "Rejestracja"
+               }
+}

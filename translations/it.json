@@ -1,0 +1,30 @@
+﻿{
+    "navbar":  {
+                   "home":  "Home",
+                   "about":  "Chi siamo",
+                   "services":  "Servizi",
+                   "pricing":  "Prezzi",
+                   "contact":  "Contatto",
+                   "login":  "Accedi",
+                   "signup":  "Registrati",
+                   "dashboard":  "Dashboard"
+               },
+    "hero":  {
+                 "headline":  "Software enterprise ed esperienze fintech per crescere con fiducia.",
+                 "subheadline":  "Progettiamo piattaforme digitali sicure e scalabili.",
+                 "cta":  "Esplora Servizi"
+             },
+    "login":  {
+                  "email":  "Email",
+                  "password":  "Password",
+                  "login":  "Accedi",
+                  "forgotPassword":  "Password dimenticata"
+              },
+    "signup":  {
+                   "name":  "Nome",
+                   "email":  "Email",
+                   "password":  "Password",
+                   "confirmPassword":  "Conferma password",
+                   "signup":  "Registrati"
+               }
+}
