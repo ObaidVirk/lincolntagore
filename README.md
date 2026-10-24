@@ -9,13 +9,8 @@ Modern marketing website and workspace dashboard for Lincoln Tagore, built with 
 
 ## Preview
 
-### Marketing site
+<img width="1896" height="868" alt="image" src="https://github.com/user-attachments/assets/ab35de7b-80b9-403e-bf87-49f760eb215f" />
 
-![Lincoln Tagore marketing site](./public/LINCOLNTAGORE.jpg)
-
-### Workspace dashboard
-
-![Lincoln Tagore admin dashboard](./public/adminpanel.png)
 
 ## Features
 
