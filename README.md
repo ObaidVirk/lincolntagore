@@ -11,7 +11,7 @@ Modern marketing website and workspace dashboard for Lincoln Tagore, built with 
 
 ### Homepage hero
 
-![Lincoln Tagore homepage hero](./public/homepage-hero.png)
+![Lincoln Tagore homepage hero](./public/homepage-hero.jpg)
 
 ## Features
 
