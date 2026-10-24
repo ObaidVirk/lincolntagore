@@ -13,10 +13,6 @@ Modern marketing website and workspace dashboard for Lincoln Tagore, built with 
 
 ![Lincoln Tagore homepage hero](./public/homepage-hero.png)
 
-### Workspace dashboard
-
-![Lincoln Tagore admin dashboard](./public/adminpanel.png)
-
 ## Features
 
 - Responsive marketing pages for services, solutions, pricing, resources, and case studies
