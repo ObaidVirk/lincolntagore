@@ -3,7 +3,7 @@
 import { Lock, Mail } from "lucide-react";
 import { FormEvent, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import { isAdminLoggedIn, setAdminLoggedIn, validateAdminCredentials } from "@/app/lib/admin-auth";
+import { isAdminLoggedIn, setAdminLoggedIn } from "@/app/lib/admin-auth";
 import { useTranslation } from "@/app/lib/translation-context";
 
 export default function LoginPage() {
@@ -19,17 +19,29 @@ export default function LoginPage() {
     }
   }, [router]);
 
-  const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
+    setError("");
 
-    if (validateAdminCredentials(email, password)) {
-      setAdminLoggedIn(email);
-      window.dispatchEvent(new Event("adminAuthChange"));
-      router.push("/admin");
-      return;
+    try {
+      const response = await fetch("/api/admin/login", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email, password }),
+      });
+
+      if (response.ok) {
+        setAdminLoggedIn(email);
+        window.dispatchEvent(new Event("adminAuthChange"));
+        router.push("/admin");
+        return;
+      }
+
+      setError("Invalid admin credentials");
+    } catch {
+      setError("Unable to sign in right now. Please try again.");
     }
 
-    setError("Invalid admin credentials");
   };
 
   return (
